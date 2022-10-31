@@ -1,0 +1,48 @@
+$ git status
+$ git add Quest_0.command_history Quest_1.command_history
+$ git commit -m "added files Quest_0 and Quest_1"
+$ git config --global user.email "yatsit.av18@gmail.com"
+$ git config --global user.name "xxvoid"
+commit 5244fca3cb9caa9b6943f5f2adfe852e3b6d5d8d
+Author: antiloch <109082366+antiloch@users.noreply.github.com>
+Date:   Sat Oct 29 20:46:53 2022 +0300
+
+    Update README.md
+
+commit 3d8be783ffe34dbc8290ea2c8f9d4ee680e8316b
+Author: Тимофей Щенников <antiloch@MacBook-Air-Timofej.local>
+Date:   Sat Oct 29 20:01:11 2022 +0300
+
+    final changes
+
+commit 607eef712b57e7160a545a8715d8e1a0be103872
+Author: Тимофей Щенников <antiloch@MacBook-Air-Timofej.local>
+Date:   Sat Oct 29 18:59:53 2022 +0300
+
+    Day_1 done
+
+commit 0850a6ace01fd963c67656865da4dabceb4d5315
+Author: Тимофей Щенников <antiloch@MacBook-Air-Timofej.local>
+Date:   Sat Oct 29 18:59:46 2022 +0300
+
+    Day_1 done
+
+commit ff485f63d2c120e89795fae20b2c43846656f0ab
+Author: Тимофей Щенников <antiloch@MacBook-Air-Timofej.local>
+Date:   Sat Oct 29 12:52:20 2022 +0300
+
+    Create day_1 quests
+
+commit a33512d253b72f6dea94a31f49eca52d9af55247
+Author: antiloch <109082366+antiloch@users.noreply.github.com>
+Date:   Sat Oct 29 12:15:34 2022 +0300
+
+    Update README.md
+    
+    Добавил описание первого квеста.
+
+commit 83f010e7b701407a749b256e036eb08225b6ffd3
+Author: antiloch <109082366+antiloch@users.noreply.github.com>
+Date:   Fri Oct 28 19:29:48 2022 +0300
+
+    Initial commit

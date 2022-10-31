@@ -1,0 +1,6 @@
+$ git clone git@github.com:xxvoid-git/Day_01.git
+$ cd Day_01
+$ git checkout -b develop_yatsiy
+$ cd rsc
+$ touch Quest_0.command_history
+$ touch Quest_1.command_history

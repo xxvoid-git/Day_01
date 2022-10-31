@@ -1,0 +1,2 @@
+$ ssh-keygen -t ed25519 -C "yatsiy.av18@gmail.com"
+$ cat /home/user/.ssh/id_ed25519.pub
