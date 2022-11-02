@@ -4,5 +4,5 @@ $ git checkout -b develop_yatsiy
 $ cd rsc
 $ touch Quest_0.command_history
 $ touch Quest_1.command_history
-vim Quest_0.command_history
-vim Quest_1.command_history
+$ vim Quest_0.command_history
+$ vim Quest_1.command_history
